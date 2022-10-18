@@ -1,0 +1,32 @@
+- [ ] Syntax for common languages
+    - C99 - C11
+    - C++11 - C++17
+    - Java
+    - Kotlin
+    - Python
+    - Lua (duh)
+    - Markdown (preview?)
+    - JSON
+
+[ ] not completed
+[x] completed
+[_] partially completed
+- [_] Sensible configuration (line numbers, tabs, etc.)
+- [ ] Awesome font
+- [ ] Good statusline (with the smooth-connecting characteristics)
+- [x] NERDTree
+- [ ] Ctrl P/coc/fzf (Figure out which to use)
+- [ ] git integration
+- [ ] VSCode style terminal panel
+- [x] Github Copilot
+- [ ] Lists support (checkboxes, etc)
+- [ ] Minimap
+- [ ] Painless LSP/Autocompletion
+    - [ ] Javascript/Typescript = tsserver
+- [ ] Treesitter plugin
+- [ ] Easy window and buffer manipulation hotkeys 
+- [x] Number/Relative Number hotkey toggle
+- [ ] Easy window resizing
+- [_] Auto commenting line/block with <C-/>
+- [ ] Rainbow brackets
+- [x] Setup python for vim...
